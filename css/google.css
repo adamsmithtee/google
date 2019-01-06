@@ -1,0 +1,148 @@
+/*/*# CSS documents*/
+
+body{
+	/*background-color: #827717;*/
+}
+
+#headstyle {
+	position: relative;
+	height: 140px;
+	width: 100%;
+	/*background-color: #e91e63;*/
+	/*right: 20px;*/
+
+}
+
+#headstyle ul li{
+	list-style-type: none;
+	float: right;
+	margin-right: 20px;
+	/*font-size: 40px;*/
+	color: #000000;
+}
+
+.child{
+	color: #000;
+}
+/*#headstyle ul li a{
+	font-size: 14px;
+	color: #000000;
+}*/
+
+ #but  {
+	font-size: 13px;
+	background-color: #1e88e5;
+	/*width: 70px;
+	height: 40px;*/
+	border-radius: 0.5px;
+	padding: 4px 11px 4px 11px;
+	color: #fff;
+
+}
+
+ #logo {
+	font-size: 20px;
+}
+
+#lego{
+	
+	/*background-color: yellow;*/
+	margin: 0 auto;
+	height: 100px;
+	width: 400px;
+	margin-top: 5px;
+}
+
+img {
+	height: 90px;
+	width: 280px;
+	margin-left: 40px;
+
+	/*margin: 0 auto;*/
+
+}
+
+input{
+font-family: SansationLight;
+/*font-size: 5pt;*/
+font-weight: bold;
+border-color: #eeeeee;
+border-style: solid;
+border-width: 2px;
+color: gray;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius:5px;
+background-color: #fff;
+width: 520px;
+height: 45px;
+box-shadow:  0px 1px 1px 0px #bdbdbd ;
+margin-bottom: 50px;
+}
+
+input:hover{
+	box-shadow:  0px 2px 5px 1px  #bdbdbd ;
+}
+
+#shadow{
+	box-shadow:  5px 2px 3px red ;
+	background-color: black;
+	width: 200px;
+	height: 200px;
+}
+
+.containers{
+	margin: 0 auto;
+	/*background-color: black;*/
+	width: 350px;
+}
+
+ #butii  {
+	font-size: 15px;
+	background-color: #eeeeee;
+	margin-left: 15px;
+	border-radius: 0.5px;
+	padding: 4px 11px 4px 11px;
+	color: #616161;
+	border:none;
+	margin-bottom : 5px;
+}
+
+#butii:hover{
+	color: #212121;
+	/*border: 1px solid #616161;*/
+	/*border: 0.5px solid #bdbdbd;*/
+	box-shadow:  1px 1px 0px 2px #bdbdbd ;
+	
+}
+
+.foot{
+	background-color: #eeeeee;
+	height:50px;
+	margin-top: 75px;
+	border:1px solid #bdbdbd;
+	z-index: 10;
+}
+.foot2{
+	background-color: #eeeeee;
+	height:50px;
+	z-index: 10;
+
+}
+
+.footlink{
+	margin-left: 10px;
+	color: #8d6e63;
+	font-size: 14px;
+	margin-top: 15px;
+	
+}
+
+
+.footlinkii{
+	float: right;
+	margin-right: 20px;
+	color: #8d6e63;
+	font-size: 14px;
+	margin-top: 15px;
+}
